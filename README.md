@@ -8,3 +8,7 @@ Install TkInter and pip, then run:
     pip install pyqrcode
 
 Run once to generate the initial configuration, then adjust the account number and name in the config.txt.
+
+## Standalone app
+
+The "dist" folder contains a windows 10 runnable standalone app.
